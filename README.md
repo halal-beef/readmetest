@@ -9,8 +9,12 @@ We're trying to porting drivers from Xiaomi Pad 5 in hope that it will work on t
 - [x] UEFI buttons
 - [ ] Touchscreen
 - [x] WiFi ```diff
-
-! I get Random Reboots, This Could Be The Fault Of The Wifi, But I Am Not Sure!```
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 - [x] Bluetooth
 - [ ] Battery
 - [ ] Charge
