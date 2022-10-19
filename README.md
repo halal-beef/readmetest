@@ -64,9 +64,14 @@ You need a [program](https://github.com/WOA-Project/DriverUpdater/releases/) to 
 
 ## Credits
 
-[Icesito68](https://github.com/Icesito68)
-[Map220v](https://github.com/map220v)
-[Degdag](https://github.com/degdag)
-[Halal-Beef](https://github.com/halal-beef)
-[Renegade Project](https://github.com/edk2-porting)
-[Ilya114](https://github.com/wormstest)
+[Icesito68](https://github.com/Icesito68) ```Made Windows Partitioning Commands And Made This Repo```
+
+[Map220v](https://github.com/map220v) ```Provided Help And Parts Of Vayu UEFI Uses Nabu UFS Patches, ACPI```
+
+[Degdag](https://github.com/degdag) ```Improves UEFI And Ported Drivers```
+
+[Halal-Beef](https://github.com/halal-beef) ```Built EDK2 And Modified It Enough To Boot Windows, Also Ported Drivers```
+
+[Renegade Project](https://github.com/edk2-porting) ```Making The Core Of This Project```
+
+[Ilya114](https://github.com/wormstest) ```Providing Russian Translations```
