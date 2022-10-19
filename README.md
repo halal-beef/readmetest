@@ -8,18 +8,18 @@ We're trying to porting drivers from Xiaomi Pad 5 in hope that it will work on t
 - [x] Display
 - [x] UEFI buttons
 - [ ] Touchscreen
-- [x] WiFi```diff - text in red + text in green ! text in orange # text in gray @@ text in purple (and bold)@@```
+- [x] WiFi ```I Get Random Reboots, This Could Be The WiFi Drivers Fault But I'm Not Sure```
 - [x] Bluetooth
 - [ ] Battery
 - [ ] Charge
-- [ ] Virtualization(Note: it is impossible for this to work)
+- [ ] Virtualization ```it's impossible for this to work```
 - [x] GPU
-- [ ] LTE(Note: work in progress)
-- [ ] Audio(Note: only if it is by usb, in theory with more acpi edits audio can work driverless)
+- [ ] LTE ```Nearly Working```
+- [ ] Audio ```only if it is by usb, in theory with more acpi edits audio can work driverless```
 - [ ] Location
 - [ ] Sensors
-- [ ] Camera(Note: it is almost impossible in this project)
-- [ ] NFC(Note: does not work on any device)
+- [ ] Camera ```it is almost impossible in this project```
+- [ ] NFC ```Note: does not work on any device```
 
 ## Disclaimer
 
