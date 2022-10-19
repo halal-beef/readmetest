@@ -38,7 +38,17 @@ Some drivers in this project belong to map220v [here](https://github.com/map220v
 
 ## Required files
 
-You will need the [Windows ARM image](https://uupdump.net/)(11 is Recommended), [UEFI image for Poco X3 Pro](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/Uefi), [TWRP](https://twrp.me/xiaomi/xiaomipocox3pro.html) for Poco X3 Pro, [Magisk](https://github.com/topjohnwu/Magisk), [Termux](https://f-droid.org/en/packages/com.termux/), [Magisk module](https://github.com/evdenis/disk) for disk partitioning in Termux.
+You will need the [Windows ARM image](https://uupdump.net/)(11 is Recommended)
+
+[UEFI image for Poco X3 Pro](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/Uefi)
+
+[TWRP](https://twrp.me/xiaomi/xiaomipocox3pro.html) for Poco X3 Pro
+
+[Magisk](https://github.com/topjohnwu/Magisk)
+
+[Termux](https://f-droid.org/en/packages/com.termux/)
+
+[Magisk module](https://github.com/evdenis/disk) for disk partitioning in Termux.
 
 On PC you will need the [platform-tools](https://developer.android.com/studio/releases/platform-tools)
 
