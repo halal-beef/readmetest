@@ -52,7 +52,7 @@ You will need the [Windows ARM image](https://uupdump.net/)(11 is Recommended)
 
 On PC you will need the [platform-tools](https://developer.android.com/studio/releases/platform-tools)
 
-We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk8xljr6p/view)for dualboot
+We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk8xljr6p/view) for dualboot
 
 ### Commands to partitioning flash storage on Termux
 
@@ -75,3 +75,5 @@ You need a [program](https://github.com/WOA-Project/DriverUpdater/releases/) to 
 [Renegade Project](https://github.com/edk2-porting) ```Making The Core Of This Project```
 
 [Ilya114](https://github.com/wormstest) ```Providing Russian Translations```
+
+[gus33000](https://github.com/gus33000) ```Providing Help, Also Made Base Install Guide```
