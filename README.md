@@ -1,1 +1,1 @@
-> -! Warning !-hello
+> Warning
