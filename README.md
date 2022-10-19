@@ -8,8 +8,7 @@ We're trying to porting drivers from Xiaomi Pad 5 in hope that it will work on t
 - [x] Display
 - [x] UEFI buttons
 - [ ] Touchscreen
-- [x] WiFi```diff - text in red + text in green ! text in orange # text in gray @@ text in purple (and bold)@@
-```
+- [x] WiFi```diff - text in red + text in green ! text in orange # text in gray @@ text in purple (and bold)@@```
 - [x] Bluetooth
 - [ ] Battery
 - [ ] Charge
