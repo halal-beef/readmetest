@@ -76,6 +76,18 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 
 [Do these commands after doing the first](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/commands/twrp)
 
+<details> 
+
+<summary><strong>**General knowledge & credits**</strong></summary>
+
+- To install macOS follow the guides provided by [Dortania](https://dortania.github.io/getting-started/)
+
+- Useful tools by [CorpNewt](https://github.com/corpnewt) and [headkaze](https://github.com/headkaze/Hackintool)
+
+- [CREDITS](CREDITS.md) file
+
+</details>  
+
 ## Credits
 
 [Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands and made this repo```
@@ -90,11 +102,3 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 
 [gus33000](https://github.com/gus33000) ```Providing help, also made base install guide```
 
-
-<details> 
-
-<summary><strong>General knowledge & credits</strong></summary>
-
-- heres a test
-
-</details>  
