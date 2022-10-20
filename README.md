@@ -27,14 +27,14 @@ We're trying to porting drivers from Xiaomi Pad 5 in hope that it will work on t
 - [x] Bluetooth
 - [ ] Battery
 - [ ] Charge
-- [ ] Virtualization ```it's impossible for this to work```
+- [ ] Virtualization ```It's impossible for this to work```
 - [x] GPU
 - [ ] LTE ```Nearly Working```
-- [ ] Audio ```only if it is by usb, in theory with more acpi edits audio can work driverless```
+- [ ] Audio ```Only if it is by usb, in theory with more acpi edits audio can work driverless```
 - [ ] Location
 - [ ] Sensors
-- [ ] Camera ```it is almost impossible in this project```
-- [ ] NFC ```Note: does not work on any device```
+- [ ] Camera ```It is almost impossible in this project```
+- [ ] NFC ```Does not work on any device```
 
 ## Where Everything Came From
 
