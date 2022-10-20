@@ -48,25 +48,32 @@ Some drivers in this project belong to map220v [here](https://github.com/map220v
 
 ### Required files
 
-You will need the [Windows ARM image](https://uupdump.net/)(11 is Recommended)
 
-[UEFI image for Poco X3 Pro](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/Uefi)
+<details> 
 
-[TWRP](https://twrp.me/xiaomi/xiaomipocox3pro.html) for Poco X3 Pro.
+<summary><strong>All Files Needed</strong></summary>
+ 
+- You will need the [Windows ARM image](https://uupdump.net/)(11 is Recommended)
 
-[Magisk](https://github.com/topjohnwu/Magisk)
+- [UEFI image for Poco X3 Pro](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/Uefi)
 
-[Termux](https://f-droid.org/en/packages/com.termux/)
+- [TWRP](https://twrp.me/xiaomi/xiaomipocox3pro.html) for Poco X3 Pro.
 
-[Magisk module](https://github.com/evdenis/disk) for disk partitioning tools in Termux.
+- [Magisk](https://github.com/topjohnwu/Magisk)
 
-[Mass Storage Mode Script](https://www.mediafire.com/file/bvibrl34nawl2wg/msc.sh/file) ```This file belongs to gus33000```
+- [Termux](https://f-droid.org/en/packages/com.termux/)
 
-On PC you will need the [platform-tools](https://developer.android.com/studio/releases/platform-tools).
+- [Magisk module](https://github.com/evdenis/disk) for disk partitioning tools in Termux.
 
-On PC you will also need a [program](https://github.com/WOA-Project/DriverUpdater/releases/) to install the [drivers](https://github.com/halal-beef/Vayu-Drivers)
+- [Mass Storage Mode Script](https://www.mediafire.com/file/bvibrl34nawl2wg/msc.sh/file) ```This file belongs to gus33000```
 
-We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk8xljr6p/view) for partitioning.
+- On PC you will need the [platform-tools](https://developer.android.com/studio/releases/platform-tools).
+
+- On PC you will also need a [program](https://github.com/WOA-Project/DriverUpdater/releases/) to install the [drivers](https://github.com/halal-beef/Vayu-Drivers)
+
+- We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk8xljr6p/view) for partitioning.
+  
+ </details> 
 
 ### Commands
 
