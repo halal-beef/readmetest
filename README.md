@@ -52,25 +52,25 @@ You will need the [Windows ARM image](https://uupdump.net/)(11 is Recommended)
 
 [UEFI image for Poco X3 Pro](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/Uefi)
 
-[TWRP](https://twrp.me/xiaomi/xiaomipocox3pro.html) for Poco X3 Pro
+[TWRP](https://twrp.me/xiaomi/xiaomipocox3pro.html) for Poco X3 Pro.
 
 [Magisk](https://github.com/topjohnwu/Magisk)
 
 [Termux](https://f-droid.org/en/packages/com.termux/)
 
-[Magisk module](https://github.com/evdenis/disk) for disk partitioning in Termux.
+[Magisk module](https://github.com/evdenis/disk) for disk partitioning tools in Termux.
 
-On PC you will need the [platform-tools](https://developer.android.com/studio/releases/platform-tools)
+[Mass Storage Mode Script](https://www.mediafire.com/file/bvibrl34nawl2wg/msc.sh/file) ```This file belongs to gus33000```
 
-We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk8xljr6p/view) for dualboot
+On PC you will need the [platform-tools](https://developer.android.com/studio/releases/platform-tools).
 
-### Commands to partitioning flash storage on Termux
+On PC you will also need a [program](https://github.com/WOA-Project/DriverUpdater/releases/) to install the [drivers](https://github.com/halal-beef/Vayu-Drivers)
+
+We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk8xljr6p/view) for partitioning.
+
+### Commands for freeing up partitions in Termux
 
 Commands for Termux available [here](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/commands/termux)
-
-This file is required to continue with the installation, you can download [here](https://www.mediafire.com/file/bvibrl34nawl2wg/msc.sh/file) ```This file belongs to gus33000```
-
-You need a [program](https://github.com/WOA-Project/DriverUpdater/releases/) to install the [drivers](https://github.com/halal-beef/Vayu-Drivers)
 
 ## Credits
 
