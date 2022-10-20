@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/halal-beef/res/blob/main/vayuwindows.png" height="550">
 
-## Disclaimer
+## **Disclaimer:**
 
 We're not responsible for bricked devices, dead microSD cards, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
 
@@ -44,7 +44,7 @@ Some drivers in this project belong to gus33000 [here](https://github.com/WOA-Pr
 
 Some drivers in this project belong to map220v [here](https://github.com/map220v/MiPad5-Drivers) you can see his project.
 
-## Installation instruction Windows ARM on Poco X3 Pro(WIP)
+## Installation instruction Windows ARM on Poco X3 Pro
 
 ### Required files
 
@@ -68,9 +68,12 @@ On PC you will also need a [program](https://github.com/WOA-Project/DriverUpdate
 
 We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk8xljr6p/view) for partitioning.
 
-### Commands for freeing up partitions in Termux
+### Commands
 
-Commands for Termux available [here](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/commands/termux)
+**Make sure to install TWRP, Magisk And The Magisk Module Before Proceeding.**
+
+[Do these commands first](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/commands/termux)
+[Do these commands after doing the first](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/commands/twrp)
 
 ## Credits
 
