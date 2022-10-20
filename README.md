@@ -78,7 +78,7 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 
 <details> 
 
-## <summary><strong>General knowledge & credits</strong></summary>
+## <summary><strong>Credits</strong></summary>
 
 - To install macOS follow the guides provided by [Dortania](https://dortania.github.io/getting-started/)
 
@@ -86,7 +86,6 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 
 - [CREDITS](CREDITS.md) file
 
-</details>  
 
 ## Credits
 
