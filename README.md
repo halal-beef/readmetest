@@ -38,9 +38,6 @@ We're trying to porting drivers from Xiaomi Pad 5 in hope that it will work on t
 
 ## Installation instructions
 
-### Required files
-
-
 <details> 
 
 <summary><strong>All Files Needed</strong></summary>
