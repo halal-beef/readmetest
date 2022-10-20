@@ -73,6 +73,7 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 **Make sure to install TWRP, Magisk And The Magisk Module Before Proceeding.**
 
 [Do these commands first](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/commands/termux)
+
 [Do these commands after doing the first](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/commands/twrp)
 
 ## Credits
