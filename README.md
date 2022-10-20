@@ -78,14 +78,14 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 
 ## Credits
 
-[Icesito68](https://github.com/Icesito68) ```Made Windows Partitioning Commands And Made This Repo```
+[Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands and made this repo```
 
-[Map220v](https://github.com/map220v) ```Provided Help And Parts Of Vayu UEFI Uses Nabu UFS Patches, ACPI```
+[Map220v](https://github.com/map220v) ```Provided help and vayu UEFI uses nabu UFS patches and ACPI```
 
-[Degdag](https://github.com/degdag) ```Improves UEFI And Ported Drivers```
+[Degdag](https://github.com/degdag) ```Improves UEFI and ported drivers```
 
-[Halal-Beef](https://github.com/halal-beef) ```Built EDK2 And Modified It Enough To Boot Windows, Also Ported Drivers```
+[Halal-Beef](https://github.com/halal-beef) ```Built EDK2 and modified it enough to boot windows, also ported drivers```
 
-[Renegade Project](https://github.com/edk2-porting) ```Making The Core Of This Project```
+[Renegade Project](https://github.com/edk2-porting) ```Making the core of this project```
 
-[gus33000](https://github.com/gus33000) ```Providing Help, Also Made Base Install Guide```
+[gus33000](https://github.com/gus33000) ```Providing help, also made base install guide```
