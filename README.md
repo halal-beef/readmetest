@@ -80,7 +80,7 @@ We're trying to porting drivers from Xiaomi Pad 5 in hope that it will work on t
 
 - [Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands and made this repo```
 
-- [Map220v](https://github.com/map220v) ```Provided help and vayu UEFI uses nabu UFS patches and ACPI and also made mi pad 5 drivers (base for vayu drivers)```
+- [Map220v](https://github.com/map220v) ```Provided help and vayu UEFI uses nabu UFS patches and ACPI and also ported mi pad 5 drivers```
 
 - [Degdag](https://github.com/degdag) ```Improves UEFI and ported drivers```
 
