@@ -2,6 +2,17 @@
 
 <img align="right" src="https://github.com/halal-beef/res/blob/main/vayuwindows.png" height="550">
 
+## Disclaimer
+
+We're not responsible for bricked devices, dead microSD cards, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
+
+This project is in an early stage, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
+
+
+
+
+
+
 ## Project Status
 
 We're trying to porting drivers from Xiaomi Pad 5 in hope that it will work on the Poco X3 Pro.
@@ -25,12 +36,7 @@ We're trying to porting drivers from Xiaomi Pad 5 in hope that it will work on t
 - [ ] Camera ```it is almost impossible in this project```
 - [ ] NFC ```Note: does not work on any device```
 
-## Disclaimer
-
-We're not responsible for bricked devices, dead microSD cards, dead cats or dogs, nuclear wars or you getting fired because u forgot to boot back in to android for the alarm.
-
-This project is in an early stage, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
-
+## Where Everything Came From
 
 Many information here was provided thanks to Renegade Project Discord server members.
 
