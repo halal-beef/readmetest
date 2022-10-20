@@ -76,30 +76,22 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 
 [Do these commands after doing the first](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/commands/twrp)
 
+<details> 
 
+<summary><strong>Credits</strong></summary>
 
-## <details> <summary><strong>General knowledge & credits</strong></summary>
+- [Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands and made this repo```
 
-- To install macOS follow the guides provided by [Dortania](https://dortania.github.io/getting-started/)
+- [Map220v](https://github.com/map220v) ```Provided help and vayu UEFI uses nabu UFS patches and ACPI```
 
-- Useful tools by [CorpNewt](https://github.com/corpnewt) and [headkaze](https://github.com/headkaze/Hackintool)
+- [Degdag](https://github.com/degdag) ```Improves UEFI and ported drivers```
 
-- [CREDITS](CREDITS.md) file
+- [Halal-Beef](https://github.com/halal-beef) ```Built EDK2 and modified it enough to boot windows, also ported drivers```
+  
+- [Renegade Project](https://github.com/edk2-porting) ```Making the core of this project```
+
+- [gus33000](https://github.com/gus33000) ```Providing help, also made base install guide```
+
 
 </details>  
-
-
-## Credits
-
-[Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands and made this repo```
-
-[Map220v](https://github.com/map220v) ```Provided help and vayu UEFI uses nabu UFS patches and ACPI```
-
-[Degdag](https://github.com/degdag) ```Improves UEFI and ported drivers```
-
-[Halal-Beef](https://github.com/halal-beef) ```Built EDK2 and modified it enough to boot windows, also ported drivers```
-
-[Renegade Project](https://github.com/edk2-porting) ```Making the core of this project```
-
-[gus33000](https://github.com/gus33000) ```Providing help, also made base install guide```
 
