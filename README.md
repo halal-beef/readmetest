@@ -58,7 +58,7 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 
 Commands for Termux available [here](https://github.com/Icesito68/Port-Windows-11-Poco-X3-pro/tree/main/commands/termux)
 
-This file is required to continue with the installation, you can download [here](https://www.mediafire.com/file/bvibrl34nawl2wg/msc.sh/file) (The file belongs to gus33000)
+This file is required to continue with the installation, you can download [here](https://www.mediafire.com/file/bvibrl34nawl2wg/msc.sh/file) ```This file belongs to gus33000```
 
 You need a [program](https://github.com/WOA-Project/DriverUpdater/releases/) to install the [drivers](https://github.com/halal-beef/Vayu-Drivers)
 
@@ -73,7 +73,5 @@ You need a [program](https://github.com/WOA-Project/DriverUpdater/releases/) to 
 [Halal-Beef](https://github.com/halal-beef) ```Built EDK2 And Modified It Enough To Boot Windows, Also Ported Drivers```
 
 [Renegade Project](https://github.com/edk2-porting) ```Making The Core Of This Project```
-
-[Ilya114](https://github.com/wormstest) ```Providing Russian Translations```
 
 [gus33000](https://github.com/gus33000) ```Providing Help, Also Made Base Install Guide```
