@@ -89,3 +89,12 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 [Renegade Project](https://github.com/edk2-porting) ```Making the core of this project```
 
 [gus33000](https://github.com/gus33000) ```Providing help, also made base install guide```
+
+
+<details> 
+
+<summary><strong>General knowledge & credits</strong></summary>
+
+- heres a test
+
+</details>  
