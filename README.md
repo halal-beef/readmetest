@@ -36,15 +36,7 @@ We're trying to porting drivers from Xiaomi Pad 5 in hope that it will work on t
 - [ ] Camera ```It is almost impossible in this project```
 - [ ] NFC ```Does not work on any device```
 
-## Where Everything Came From
-
-Many information here was provided thanks to Renegade Project Discord server members.
-
-Some drivers in this project belong to gus33000 [here](https://github.com/WOA-Project/SurfaceDuo-Drivers) you can see his project.
-
-Some drivers in this project belong to map220v [here](https://github.com/map220v/MiPad5-Drivers) you can see his project.
-
-## Installation instruction Windows ARM on Poco X3 Pro
+## Installation instructions
 
 ### Required files
 
@@ -91,7 +83,7 @@ Some drivers in this project belong to map220v [here](https://github.com/map220v
 
 - [Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands and made this repo```
 
-- [Map220v](https://github.com/map220v) ```Provided help and vayu UEFI uses nabu UFS patches and ACPI```
+- [Map220v](https://github.com/map220v) ```Provided help and vayu UEFI uses nabu UFS patches and ACPI and also made mi pad 5 drivers (base for vayu drivers)```
 
 - [Degdag](https://github.com/degdag) ```Improves UEFI and ported drivers```
 
@@ -99,8 +91,11 @@ Some drivers in this project belong to map220v [here](https://github.com/map220v
   
 - [Renegade Project](https://github.com/edk2-porting) ```Making the core of this project```
 
-- [gus33000](https://github.com/gus33000) ```Providing help, also made base install guide```
+- [gus33000](https://github.com/gus33000) ```Providing help, also made base install guide and made all of the original drivers```
 
+- [Renegade Project Discord members](https://discord.gg/XXBWfag) ```Provided Help```
+ 
+- To anyone we forgot
 
 </details>  
 
