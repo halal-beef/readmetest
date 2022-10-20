@@ -78,7 +78,7 @@ We will need [parted](https://drive.google.com/file/d/1e8kDC2fylkvJuHimlViHOuHyk
 
 <details> 
 
-<summary><strong>Credits</strong></summary>
+<summary><b><strong>Credits</strong></b></summary>
 
 - [Icesito68](https://github.com/Icesito68) ```Made windows partitioning commands and made this repo```
 
