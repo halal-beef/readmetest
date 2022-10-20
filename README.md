@@ -1,6 +1,6 @@
 ## Running Windows 11 On The Poco X3 Pro
 
-<img align="centre" src="https://github.com/halal-beef/res/blob/main/vayuwindows.png">
+<img align="centre" src="https://github.com/halal-beef/res/blob/main/vayuwindows.png" height="600">
 
 ## Project Status
 
